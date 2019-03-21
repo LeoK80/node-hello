@@ -1,3 +1,5 @@
+[![Build Status](http://drone-dev.stage-cf.sky.com/api/badges/LeoK80/node-hello/status.svg)](http://drone-dev.stage-cf.sky.com/LeoK80/node-hello)
+
 # Node Hello World
 
 Simple node.js app that servers "hello world"
